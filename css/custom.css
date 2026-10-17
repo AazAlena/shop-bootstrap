@@ -1,9 +1,18 @@
-/* Этап 10: Минимальные собственные стили */
+/* Стили из ПЗ №9 */
 body {
     min-height: 100vh;
 }
 
-/* Временный блок для изображения */
 .placeholder-box {
     min-height: 240px;
+}
+
+/* Этап 11 ПЗ №10: Добавление минимальных стилей */
+.placeholder-image {
+    min-height: 320px;
+}
+
+.card-img-top {
+    height: 180px;
+    object-fit: cover;
 }
